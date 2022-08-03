@@ -1,10 +1,13 @@
 h1  {
   color: purple;
   text-align: center;
+  font-family: cursive;
 }
 h2  {
-  color: #ff33ca;
+  color: #d11e97;
   text-align: center;
+  font-family: fantasy;
+  font-size: medium;
 }
 
 .center_element {
@@ -19,4 +22,5 @@ h2  {
 .best {
   color: #12b50d;
   font-family: fantasy;
+  text-align: center;
 }
