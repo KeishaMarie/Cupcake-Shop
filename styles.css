@@ -10,3 +10,13 @@ h2  {
 .center_element {
   text-align: center;
 }
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: #12b50d;
+  font-family: fantasy;
+}
