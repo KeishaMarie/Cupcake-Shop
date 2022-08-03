@@ -4,7 +4,7 @@ h1  {
   font-family: cursive;
 }
 h2  {
-  color: #d11e97;
+  color: #12b50d;
   text-align: center;
   font-family: fantasy;
   font-size: medium;
@@ -15,8 +15,9 @@ h2  {
 }
 
 .flashy {
-  color: red;
+  color: #d11e97;
   font-style: italic;
+  text-align: center;
 }
 
 .best {
